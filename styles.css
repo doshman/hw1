@@ -1,0 +1,22 @@
+
+body {
+  font-family: "Courier New";
+  font-size: large;
+  width: 960px;
+  margin: 20px auto;
+ }
+
+h1  {
+  font-weight: bold;
+  color: purple;
+  margin: 20px auto;
+}
+
+h2 {
+  font-weight: bold;
+  color: grey;
+}
+
+ol {
+  line-height: 150%;
+}
